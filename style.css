@@ -1,0 +1,133 @@
+*{
+  /* outline: 1px solid black; */
+}
+
+#wrapper{
+    width:875px;
+    height:675px;
+    background-color: gray;
+
+}
+
+.headerfooter{
+    width: 850px;
+    height: 50px;
+    background-color: cyan;
+    margin:15px 15px 0 15px;
+    display: inline-block;
+    vertical-align: top;
+}
+.blackbigtxt{
+   
+    color:black;
+    font-size: 20px;
+    display:inline-block;
+    vertical-align: top;
+    font-weight: bold;
+    padding: 0px 0 5px 0;
+}
+
+
+.headerfooter ul{
+    width: 550px;
+    display: inline-flex;
+    margin:20px 0 0 100px;
+
+}
+.headerfooter li{
+    list-style: none;
+    padding: 0 0 0px 10px;
+}
+.headerfooter a{
+    color:white;
+}
+
+
+#catimg{
+    width:40px;
+    height: 40px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 5px 0 0 5px;
+
+}
+
+#mainbody{
+    height:500px;
+    width: 850px;
+    margin:15px;
+    background-color: rgb(245, 245, 77);
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.blue{
+    color:cyan;
+}
+
+.blacktxt{
+    color: black;
+    text-align: center;
+}
+
+.lefttexthead{
+    color:white;
+    padding: 0 0 0 5px;
+}
+
+.minitexthead{
+    color:white;
+    padding: 0 0 0 5px;
+    margin:5px 0 0 0;
+}
+
+.alltext{
+    padding: 0 10px 10px 15px;
+    color:white;
+    font-size: 12px;
+}
+
+
+
+#leftcollum{
+    height: 480px;
+    width: 230px;
+    margin: 15px 30px 15px 15px;
+    background-color: rgb(61, 61, 61);
+    display: inline-block;
+    vertical-align: top;
+}
+
+.topthree{
+    height: 155px;
+    width: 155px;   
+    margin:15px 30px 20px 0px;
+    background-color: rgb(61, 61, 61);
+    display: inline-block;
+    vertical-align: top;
+}
+
+.centertwo{
+    width: 250px;
+    height: 130px;
+    margin:0px 30px 30px 0px;
+    background-color: rgb(61, 61, 61);
+    display: inline-block;
+    vertical-align: top;
+}
+
+#bottomsq{
+    width: 540px;
+    height: 132px;
+    margin:0px 30px 15px 0px;
+    background-color: rgb(61, 61, 61);
+    display: inline-block;
+    vertical-align: top;
+}
+#rightcollum{
+    height:500px;
+    width: 565px;
+    display: inline-block;
+    vertical-align: top;
+}
